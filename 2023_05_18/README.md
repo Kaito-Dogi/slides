@@ -3,4 +3,3 @@
 
 - [サンプルコード](https://github.com/Kaito-Dogi/type-systems)
 - [Speaker Deck](https://speakerdeck.com/doggy/hurontoendoenzinianoyou-ren-to-xing-dehua-gasurewei-tutayuan-yin-yumemi-dot-growhe-tong-lthui-inheng-bang-at-kaito-dogi)
-- 
