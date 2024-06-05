@@ -4,4 +4,4 @@
 
 - [Expo Router サンプル実装](https://github.com/Kaito-Dogi/expo-router-sample)
 - [React Navigation サンプル実装](https://github.com/Kaito-Dogi/react-navigation-sample)
-- [Speaker Deck](https://speakerdeck.com/doggy/expo-router-ha-expo-dao-ru-nojue-meshou-tonaruka-hurontoendokanhuarensuchong-nawa-2023-at-kaito-dogi)
+- [Speaker Deck](https://speakerdeck.com/kaito_dogi/expo-router-ha-expo-dao-ru-nojue-meshou-tonaruka-hurontoendokanhuarensuchong-nawa-2023-at-kaito-dogi)
